@@ -1,4 +1,4 @@
-# hello-world
+# {{name}}
 
 ## Project setup
 ```
